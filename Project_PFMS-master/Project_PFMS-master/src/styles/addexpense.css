@@ -1,0 +1,8 @@
+#addexpenseform{
+    width:500px;
+}
+.addexpensescontainer{
+    display:flex;
+    justify-content: center;
+    background-color: #DCDCDC;
+}
